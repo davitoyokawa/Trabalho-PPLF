@@ -16,5 +16,7 @@ Clone ou baixe este repositório
 
 ## Uso
 Abra o SWI-PROLOG e carregue o arquivo main do sistema: consult('main.pl').
+
 Inicie o sistema: iniciar.
+
 Siga as instruções na interface de linha de comando para fornecer os sintomas e receber o diagnóstico.
